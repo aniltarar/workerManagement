@@ -1,0 +1,9 @@
+.workerListBody li {
+    list-style: none;
+    cursor: pointer;
+}
+
+.transition{
+    transition: .3s ease;
+    
+}
